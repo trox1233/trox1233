@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trox1233
+- 👋 Hi, I’m erick_huanqui
 - 👀 I’m interested in programig and listen music
 - 🌱 I’m currently learning about diferent lenguaje code
 - 💞️ I’m looking to collaborate on ...
